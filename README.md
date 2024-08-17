@@ -10,8 +10,8 @@ The objective of this project is to create a fully functional Instagram clone th
 
 - Implement user registration
 - Allow users to log in and log out securely.
-- Use JWT
-- Set up password reset functionality.
+- Handle authentication using JWT
+- Set up password reset functionality.*
 
 ### **User Profiles:**
 
@@ -37,13 +37,13 @@ The objective of this project is to create a fully functional Instagram clone th
 - Enable users to like and unlike photos.
 - Implement a commenting system where users can add comments to photos.
 - Display the number of likes and comments on each photo.
-- Implement real-time updates for likes and comments using WebSockets.
+- Implement real-time updates for likes and comments.
 
 ### **Feed and Discover:**
 
 - Create a personalized feed showing photos from followed users.
-- Implement a "Discover" page where users can find new content based on trending tags, popular posts, or suggested users.
 - Optimize the feed with infinite scrolling for a smooth user experience.
+- Implement a "Discover" page where users can find new content based on trending tags, popular posts, or suggested users.*
 
 ### **Responsive UI:**
 
